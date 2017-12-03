@@ -12,6 +12,7 @@ namespace WebApplicationTest
         protected void Page_Load(object sender, EventArgs e)
         {
             var a = 2;
+            var b = 3;
         }
     }
 }
